@@ -5,5 +5,7 @@
   "last_day_pnl_rate": 0.0003887593024546945,
   "last_1m_pnl_rate": 0.16108031455459587,
   "last_3m_pnl_rate": 1.1195505089133375,
+  "last_6m_pnl_rate": 1.1580208458128667,
+  "last_12m_pnl_rate": 2.46204113011724,
   "running_days": 367
 }
