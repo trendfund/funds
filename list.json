@@ -4,9 +4,9 @@
     "fundName": "BTC 趋势四号",
     "fundType": "积极型",
     "chartColor": "#fa541c",
-    "leverage": "1.00",
-    "exposure": "80%",
-    "liquidation": "0.8",
+    "leverage": "2.50",
+    "exposure": "95%",
+    "liquidation": "0.5",
     "tip": "积极创造未来"
   },
   {
@@ -14,9 +14,9 @@
     "fundName": "BTC 趋势三号",
     "fundType": "积极型",
     "chartColor": "#fa541c",
-    "leverage": "1.00",
-    "exposure": "80%",
-    "liquidation": "0.8",
+    "leverage": "2.50",
+    "exposure": "95%",
+    "liquidation": "0.5",
     "tip": "积极创造未来"
   },
   {
@@ -24,9 +24,9 @@
     "fundName": "BTC 趋势二号",
     "fundType": "进取型",
     "chartColor": "#52c41a",
-    "leverage": "1.00",
-    "exposure": "80%",
-    "liquidation": "0.8",
+    "leverage": "2.00",
+    "exposure": "90%",
+    "liquidation": "0.7",
     "tip": "分享市场成长"
   },
   {
