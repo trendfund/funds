@@ -7,7 +7,8 @@
     "leverage": "2.50",
     "exposure": "95%",
     "liquidation": "0.5",
-    "tip": "积极创造未来"
+    "tip": "积极创造未来",
+    "status": "running"
   },
   {
     "fundCode": "t3",
@@ -17,7 +18,8 @@
     "leverage": "2.50",
     "exposure": "95%",
     "liquidation": "0.5",
-    "tip": "积极创造未来"
+    "tip": "积极创造未来",
+    "status": "running"
   },
   {
     "fundCode": "t2",
@@ -27,7 +29,8 @@
     "leverage": "2.00",
     "exposure": "90%",
     "liquidation": "0.7",
-    "tip": "分享市场成长"
+    "tip": "分享市场成长",
+    "status": "running"
   },
   {
     "fundCode": "t1",
@@ -37,6 +40,7 @@
     "leverage": "1.00",
     "exposure": "80%",
     "liquidation": "0.8",
-    "tip": "安心配置首选"
+    "tip": "安心配置首选",
+    "status": "running"
   }
 ]
