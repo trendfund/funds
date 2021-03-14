@@ -2,11 +2,13 @@
   {
     "datetime": 1609459200,
     "price": 1.0,
-    "amount": "+28944.4"
+    "amount": "+28944.4",
+    "type": "deposit"
   },
   {
     "datetime": 1612396800,
     "price": 1.1418,
-    "amount": "+3200"
+    "amount": "+3200",
+    "type": "bonus"
   }
 ]

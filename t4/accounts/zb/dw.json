@@ -2,6 +2,7 @@
   {
     "datetime": 1609459200,
     "price": 1.0,
-    "amount": "+14409.8"
+    "amount": "+14409.8",
+    "type": "deposit"
   }
 ]

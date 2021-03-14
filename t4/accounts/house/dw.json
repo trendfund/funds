@@ -2,21 +2,25 @@
   {
     "datetime": 1609459200,
     "price": 1.0,
-    "amount": "+29774.4"
+    "amount": "+29774.4",
+    "type": "deposit"
   },
   {
     "datetime": 1612396800,
     "price": 1.1418,
-    "amount": "-3200"
+    "amount": "-3200",
+    "type": "withdraw"
   },
   {
     "datetime": 1613692800,
     "price": 1.7821,
-    "amount": "+35649"
+    "amount": "+35649",
+    "type": "deposit"
   },
   {
     "datetime": 1614124800,
     "price": 1.6434,
-    "amount": "-6084.9"
+    "amount": "-6084.9",
+    "type": "withdraw"
   }
 ]
