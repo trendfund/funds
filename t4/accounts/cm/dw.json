@@ -10,17 +10,5 @@
     "price": 1.1418,
     "amount": "+2627.43",
     "type": "deposit"
-  },
-  {
-    "datetime": 1616716800,
-    "price": 1.5763,
-    "amount": "-1270",
-    "type": "dividend"
-  },
-  {
-    "datetime": 1616716800,
-    "price": 1.5763,
-    "amount": "-1905",
-    "type": "withdraw"
   }
 ]
