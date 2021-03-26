@@ -19,7 +19,7 @@
     "fundCode": "t2",
     "fundName": "BTC 趋势二号",
     "fundType": "进取型",
-    "chartColor": "#52c41a",
+    "chartColor": "#fa541c",
     "tip": "分享市场成长",
     "status": "running"
   },
@@ -27,7 +27,7 @@
     "fundCode": "t1",
     "fundName": "BTC 趋势一号",
     "fundType": "稳健型",
-    "chartColor": "#1890ff",
+    "chartColor": "#fa541c",
     "tip": "安心配置首选",
     "status": "running"
   }
