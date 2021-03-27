@@ -5,25 +5,53 @@
         "name": "BTC 趋势四号",
         "code": "t4",
         "type": "积极型",
-        "status": "running"
+        "status": "running",
+        "data": {
+          "datetime": "2021-03-27 00:00:00",
+          "annual_return": 7.399834506322289,
+          "pps": 1.6511,
+          "cum_pnl_rate": 0.6511,
+          "daily_pnl_rate": 0.0474
+        }
       },
       {
         "name": "BTC 趋势三号",
         "code": "t3",
         "type": "积极型",
-        "status": "running"
+        "status": "running",
+        "data": {
+          "datetime": "2021-03-27 00:00:00",
+          "annual_return": 7.964382730858052,
+          "pps": 1.6766,
+          "cum_pnl_rate": 0.6766,
+          "daily_pnl_rate": 0.0305
+        }
       },
       {
         "name": "BTC 趋势二号",
         "code": "t2",
         "type": "进取型",
-        "status": "running"
+        "status": "running",
+        "data": {
+          "datetime": "2021-03-27 00:00:00",
+          "annual_return": 2.360022754783794,
+          "pps": 1.3305,
+          "cum_pnl_rate": 0.3305,
+          "daily_pnl_rate": 0.0147
+        }
       },
       {
         "name": "BTC 趋势一号",
         "code": "t1",
         "type": "稳健型",
-        "status": "running"
+        "status": "running",
+        "data": {
+          "datetime": "2021-03-27 00:00:00",
+          "annual_return": 0.5418304630375479,
+          "pps": 1.1074,
+          "cum_pnl_rate": 0.1073,
+          "daily_pnl_rate": 0.0048
+        }
       }
     ]
   }
