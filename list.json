@@ -5,28 +5,24 @@
         "name": "BTC 趋势四号",
         "code": "t4",
         "type": "积极型",
-        "tip": "积极创造未来",
         "status": "running"
       },
       {
         "name": "BTC 趋势三号",
         "code": "t3",
         "type": "积极型",
-        "tip": "积极创造未来",
         "status": "running"
       },
       {
         "name": "BTC 趋势二号",
         "code": "t2",
         "type": "进取型",
-        "tip": "分享市场成长",
         "status": "running"
       },
       {
         "name": "BTC 趋势一号",
         "code": "t1",
         "type": "稳健型",
-        "tip": "安心配置首选",
         "status": "running"
       }
     ]
