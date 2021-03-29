@@ -1,8 +1,8 @@
 [
   {
     "datetime": 1615420800,
+    "type": "deposit",
     "price": 1.6873,
-    "amount": "+29633",
-    "type": "deposit"
+    "amount": "+29633"
   }
 ]

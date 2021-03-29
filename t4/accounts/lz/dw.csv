@@ -1,2 +1,2 @@
-datetime,price,amount
-2021-01-01 00:00:00,1.0000,+25268.1,deposit
+datetime,type,price,amount
+2021-01-01 00:00:00,deposit,1.0000,+25268.1
