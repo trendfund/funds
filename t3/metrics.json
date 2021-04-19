@@ -7,7 +7,7 @@
     "annual_volatility": 0.8850549436031809,
     "annual_return": 8.250395218889112,
     "daily_winning_ratio": 0.5412844036697247,
-    "max_drawdown": 0.1938118477495553
+    "max_drawdown": 0.21252855852505181
   },
   "strategy": {
     "alpha": -0.274576412466483,
@@ -17,6 +17,6 @@
     "annual_volatility": 0.7171683704063871,
     "annual_return": 2.734259519960633,
     "daily_winning_ratio": 0.5412844036697247,
-    "max_drawdown": 0.1298069000356491
+    "max_drawdown": 0.21252855852505181
   }
 }
