@@ -1,0 +1,13 @@
+{
+  "name": "BTC 趋势一号",
+  "code": "t1",
+  "type": "稳健型",
+  "status": "running",
+  "data": {
+    "datetime": "2021-04-25 00:00:00",
+    "annual_return": 0.26434567820117727,
+    "pps": 1.0767,
+    "cum_pnl_rate": 0.0767,
+    "daily_pnl_rate": -0.0012
+  }
+}

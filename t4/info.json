@@ -1,0 +1,13 @@
+{
+  "name": "BTC 趋势四号",
+  "code": "t4",
+  "type": "积极型",
+  "status": "running",
+  "data": {
+    "datetime": "2021-04-25 00:00:00",
+    "annual_return": 1.1788509353714987,
+    "pps": 1.2781,
+    "cum_pnl_rate": 0.2781,
+    "daily_pnl_rate": -0.0124
+  }
+}
