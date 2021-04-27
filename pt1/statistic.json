@@ -1,5 +1,5 @@
 {
-  "timestamp": 1619395200,
+  "timestamp": 1619481600,
   "pps": 1.0,
   "pnl_rate": 0.0,
   "last_day_pnl_rate": 0.0,
@@ -7,5 +7,5 @@
   "last_3m_pnl_rate": 0.0,
   "last_6m_pnl_rate": 0.0,
   "last_12m_pnl_rate": 0.0,
-  "running_days": 2
+  "running_days": 3
 }
