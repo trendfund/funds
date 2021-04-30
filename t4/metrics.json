@@ -1,22 +1,22 @@
 {
   "benchmark": {
     "alpha": 0.0,
-    "beta": 1.0000000000000002,
-    "sharpe_ratio": 2.635395547773659,
-    "sortino_ratio": 4.5665376181852215,
-    "annual_volatility": 0.8719657078695529,
-    "annual_return": 6.094862943910571,
-    "daily_winning_ratio": 0.5210084033613446,
+    "beta": 1.0,
+    "sharpe_ratio": 2.536192440191102,
+    "sortino_ratio": 4.387427247670925,
+    "annual_volatility": 0.8698872836059689,
+    "annual_return": 5.48732488849009,
+    "daily_winning_ratio": 0.5166666666666667,
     "max_drawdown": 0.3643722660767258
   },
   "strategy": {
-    "alpha": -0.640743635986676,
-    "beta": 1.0323272605530838,
-    "sharpe_ratio": 1.3371713994270895,
-    "sortino_ratio": 2.3687172762203357,
-    "annual_volatility": 1.0095766357434923,
-    "annual_return": 1.4702391450346521,
-    "daily_winning_ratio": 0.5210084033613446,
+    "alpha": -0.6181091788850038,
+    "beta": 1.0300941494406228,
+    "sharpe_ratio": 1.3039785026495794,
+    "sortino_ratio": 2.3095099544178144,
+    "annual_volatility": 1.0055710592930929,
+    "annual_return": 1.3856624848886026,
+    "daily_winning_ratio": 0.5166666666666667,
     "max_drawdown": 0.3643722660767258
   }
 }
