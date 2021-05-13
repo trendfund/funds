@@ -1,11 +1,11 @@
 {
-  "timestamp": 1620777600,
-  "pps": 1.2436,
-  "pnl_rate": 0.24360000000000004,
-  "last_day_pnl_rate": 0.00330778539733763,
-  "last_1m_pnl_rate": -0.07470238095238098,
-  "last_3m_pnl_rate": -0.03229320675433808,
-  "last_6m_pnl_rate": 0.24360000000000004,
-  "last_12m_pnl_rate": 0.24360000000000004,
-  "running_days": 132
+  "timestamp": 1620864000,
+  "pps": 1.2071,
+  "pnl_rate": 0.20710000000000006,
+  "last_day_pnl_rate": -0.029350273399806993,
+  "last_1m_pnl_rate": -0.09850634802091106,
+  "last_3m_pnl_rate": -0.052437396969934824,
+  "last_6m_pnl_rate": 0.20710000000000006,
+  "last_12m_pnl_rate": 0.20710000000000006,
+  "running_days": 133
 }
