@@ -7,11 +7,11 @@
         "type": "积极型",
         "status": "running",
         "data": {
-          "datetime": "2021-06-12 00:00:00",
-          "annual_return": 0.5454977620940444,
-          "pps": 1.2145,
-          "cum_pnl_rate": 0.2146,
-          "daily_pnl_rate": 0.008
+          "datetime": "2021-06-13 00:00:00",
+          "annual_return": 0.4656285293620446,
+          "pps": 1.1874,
+          "cum_pnl_rate": 0.1874,
+          "daily_pnl_rate": -0.0224
         }
       },
       {
@@ -20,11 +20,11 @@
         "type": "积极型",
         "status": "running",
         "data": {
-          "datetime": "2021-06-12 00:00:00",
-          "annual_return": 1.4625944580938413,
-          "pps": 1.4955,
-          "cum_pnl_rate": 0.4955,
-          "daily_pnl_rate": 0.0078
+          "datetime": "2021-06-13 00:00:00",
+          "annual_return": 1.3308003656220864,
+          "pps": 1.4625,
+          "cum_pnl_rate": 0.4626,
+          "daily_pnl_rate": -0.022
         }
       },
       {
@@ -33,11 +33,11 @@
         "type": "进取型",
         "status": "running",
         "data": {
-          "datetime": "2021-06-12 00:00:00",
-          "annual_return": 0.6805464603389499,
-          "pps": 1.2609,
-          "cum_pnl_rate": 0.2609,
-          "daily_pnl_rate": 0.0039
+          "datetime": "2021-06-13 00:00:00",
+          "annual_return": 0.6344111414960625,
+          "pps": 1.247,
+          "cum_pnl_rate": 0.247,
+          "daily_pnl_rate": -0.011
         }
       },
       {
@@ -46,11 +46,11 @@
         "type": "稳健型",
         "status": "running",
         "data": {
-          "datetime": "2021-06-12 00:00:00",
-          "annual_return": 0.2088689716548422,
-          "pps": 1.0884,
-          "cum_pnl_rate": 0.0884,
-          "daily_pnl_rate": 0.0013
+          "datetime": "2021-06-13 00:00:00",
+          "annual_return": 0.19761744732068687,
+          "pps": 1.0844,
+          "cum_pnl_rate": 0.0844,
+          "daily_pnl_rate": -0.0037
         }
       }
     ]
