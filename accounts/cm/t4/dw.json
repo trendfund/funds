@@ -22,5 +22,11 @@
     "type": "withdraw",
     "price": 1.5763,
     "amount": "-6354"
+  },
+  {
+    "datetime": 1625097600,
+    "type": "withdraw",
+    "price": 1.1077,
+    "amount": "-1.629"
   }
 ]

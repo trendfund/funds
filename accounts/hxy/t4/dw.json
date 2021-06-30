@@ -16,5 +16,11 @@
     "type": "dividend",
     "price": 1.7821,
     "amount": "-35649"
+  },
+  {
+    "datetime": 1625097600,
+    "type": "withdraw",
+    "price": 1.1077,
+    "amount": "-1.899"
   }
 ]
