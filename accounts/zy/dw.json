@@ -1,0 +1,26 @@
+[
+  {
+    "datetime": 1609459200,
+    "type": "deposit",
+    "price": 1.0,
+    "amount": "+6190"
+  },
+  {
+    "datetime": 1609718400,
+    "type": "deposit",
+    "price": 1.1418,
+    "amount": "+1348.74"
+  },
+  {
+    "datetime": 1625097600,
+    "type": "withdraw",
+    "price": 1.1077,
+    "amount": "-7538.74"
+  },
+  {
+    "datetime": 1625097600,
+    "type": "deposit",
+    "price": 1.0,
+    "amount": "+8374.79"
+  }
+]
