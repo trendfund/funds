@@ -1,2 +1,2 @@
 code,pps,avg_price,shares,unrealized_pnl,realized_pnl,total_pnl,market_value,pnl_rate,daily_pnl,dividend_pnl
-pt1,1.0047,1.0000,443961.0000,2086.6167,0.0000,2086.6167,446047.6167,0.0047,0.0000,0.0000
+pt1,0.9967,1.0000,443961.0000,-1465.0713,0.0000,-1465.0713,442495.9287,-0.0033,-3551.6880,0.0000
