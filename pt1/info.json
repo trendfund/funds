@@ -2,10 +2,10 @@
   "code": "pt1",
   "status": "running",
   "data": {
-    "datetime": "2021-09-01 00:00:00",
-    "annual_return": 0.037792811692288986,
-    "pps": 1.0133,
-    "cum_pnl_rate": 0.0133,
-    "daily_pnl_rate": -0.0005
+    "datetime": "2021-09-02 00:00:00",
+    "annual_return": 0.041783832996664216,
+    "pps": 1.0148,
+    "cum_pnl_rate": 0.0148,
+    "daily_pnl_rate": 0.0015
   }
 }
