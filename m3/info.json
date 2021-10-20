@@ -5,9 +5,9 @@
   "status": "running",
   "data": {
     "datetime": "2021-10-20 00:00:00",
-    "annual_return": 0.17452683520060042,
-    "pps": 1.0506,
-    "cum_pnl_rate": 0.0506,
-    "daily_pnl_rate": 0.0111
+    "annual_return": 0.1723422374647403,
+    "pps": 1.05,
+    "cum_pnl_rate": 0.05,
+    "daily_pnl_rate": 0.0105
   }
 }
