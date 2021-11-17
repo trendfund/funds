@@ -10,5 +10,11 @@
     "type": "deposit",
     "price": 1.2451,
     "amount": "+8005"
+  },
+  {
+    "datetime": 1637107200,
+    "type": "deposit",
+    "price": 1.265,
+    "amount": "+7905"
   }
 ]
