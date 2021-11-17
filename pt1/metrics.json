@@ -2,11 +2,11 @@
   "benchmark": {
     "alpha": 0.0,
     "beta": 1.0,
-    "sharpe_ratio": 0.8778553911050394,
-    "sortino_ratio": 1.2767353684191205,
-    "annual_volatility": 0.8008477212652748,
-    "annual_return": 0.5196968835823468,
-    "daily_winning_ratio": 0.5097087378640777,
+    "sharpe_ratio": 0.7569621556298918,
+    "sortino_ratio": 1.0966107099267068,
+    "annual_volatility": 0.8021543406897581,
+    "annual_return": 0.37951592276623947,
+    "daily_winning_ratio": 0.5072463768115942,
     "max_drawdown": 0.04182247589057275
   },
   "strategy": {
