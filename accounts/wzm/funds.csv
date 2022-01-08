@@ -1,2 +1,2 @@
 code,pps,avg_price,shares,unrealized_pnl,realized_pnl,total_pnl,market_value,pnl_rate,daily_pnl,dividend_pnl
-m3,1.2128,1.1553,25919.0000,1491.0601,0.0000,1491.0601,31434.5632,0.0498,495.0529,447.3180
+m3,1.1475,1.1553,25919.0000,-201.4506,0.0000,-201.4506,29742.0525,-0.0067,-1692.5107,0.0000
