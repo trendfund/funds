@@ -10,5 +10,11 @@
     "type": "withdraw",
     "price": 1.1077,
     "amount": "-5027.9"
+  },
+  {
+    "datetime": 1625097600,
+    "type": "deposit",
+    "price": 1.0,
+    "amount": "+5569"
   }
 ]
