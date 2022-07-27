@@ -1,11 +1,11 @@
 {
-  "timestamp": 1658793600,
+  "timestamp": 1658880000,
   "pps": 0.855,
   "pnl_rate": -0.14500000000000002,
   "last_day_pnl_rate": 0.0,
-  "last_1m_pnl_rate": -0.000701262272089814,
+  "last_1m_pnl_rate": -0.0010515247108307184,
   "last_3m_pnl_rate": -0.03846153846153847,
   "last_6m_pnl_rate": -0.2449664429530202,
-  "last_12m_pnl_rate": -0.20686456400742123,
-  "running_days": 391
+  "last_12m_pnl_rate": -0.1898038472472282,
+  "running_days": 392
 }
