@@ -7,11 +7,11 @@
         "type": "积极型",
         "status": "running",
         "data": {
-          "datetime": "2022-10-19 00:00:00",
-          "annual_return": -0.2457130051505314,
-          "pps": 0.6923,
-          "cum_pnl_rate": -0.3077,
-          "daily_pnl_rate": 0.0005
+          "datetime": "2022-10-20 00:00:00",
+          "annual_return": -0.26680096887733784,
+          "pps": 0.6666,
+          "cum_pnl_rate": -0.3334,
+          "daily_pnl_rate": -0.0371
         }
       }
     ]
