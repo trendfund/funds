@@ -7,11 +7,11 @@
         "type": "积极型",
         "status": "running",
         "data": {
-          "datetime": "2023-08-31 00:00:00",
-          "annual_return": -0.30269653392809226,
-          "pps": 0.4578,
-          "cum_pnl_rate": -0.5422,
-          "daily_pnl_rate": -0.0065
+          "datetime": "2023-09-01 00:00:00",
+          "annual_return": -0.3085204956998864,
+          "pps": 0.4491,
+          "cum_pnl_rate": -0.5509,
+          "daily_pnl_rate": -0.019
         }
       }
     ]
