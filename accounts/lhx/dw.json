@@ -1,17 +1,5 @@
 [
   {
-    "datetime": 1625097600,
-    "type": "deposit",
-    "price": 1.0,
-    "amount": "+5569"
-  },
-  {
-    "datetime": 1661904000,
-    "type": "withdraw",
-    "price": 0.76,
-    "amount": "-5569"
-  },
-  {
     "datetime": 1613952000,
     "type": "deposit",
     "price": 1.9889,
