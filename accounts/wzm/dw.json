@@ -16,5 +16,59 @@
     "type": "deposit",
     "price": 1.265,
     "amount": "+7905"
+  },
+  {
+    "datetime": 1626652800,
+    "type": "deposit",
+    "price": 0.9974,
+    "amount": "+10009"
+  },
+  {
+    "datetime": 1629417600,
+    "type": "deposit",
+    "price": 1.2451,
+    "amount": "+8005"
+  },
+  {
+    "datetime": 1637107200,
+    "type": "deposit",
+    "price": 1.265,
+    "amount": "+7905"
+  },
+  {
+    "datetime": 1626652800,
+    "type": "deposit",
+    "price": 0.9974,
+    "amount": "+10009"
+  },
+  {
+    "datetime": 1629417600,
+    "type": "deposit",
+    "price": 1.2451,
+    "amount": "+8005"
+  },
+  {
+    "datetime": 1637107200,
+    "type": "deposit",
+    "price": 1.265,
+    "amount": "+7905"
+  },
+  {
+    "datetime": 1626652800,
+    "type": "deposit",
+    "price": 0.9974,
+    "amount": "+10009"
+  },
+  {
+    "datetime": 1629417600,
+    "type": "deposit",
+    "price": 1.2451,
+    "amount": "+8005"
+  },
+  {
+    "datetime": 1637107200,
+    "type": "deposit",
+    "price": 1.265,
+    "amount": "+7905"
   }
 ]
