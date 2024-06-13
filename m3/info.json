@@ -4,10 +4,10 @@
   "type": "积极型",
   "status": "running",
   "data": {
-    "datetime": "2024-06-12 00:00:00",
-    "annual_return": -0.02894603118589789,
-    "pps": 0.9172,
-    "cum_pnl_rate": -0.0828,
-    "daily_pnl_rate": -0.0371
+    "datetime": "2024-06-13 00:00:00",
+    "annual_return": -0.023840748447799598,
+    "pps": 0.9314,
+    "cum_pnl_rate": -0.0686,
+    "daily_pnl_rate": 0.0155
   }
 }
