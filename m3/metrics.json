@@ -12,11 +12,11 @@
   "strategy": {
     "alpha": -0.08286402296236184,
     "beta": 0.20076705499715244,
-    "sharpe_ratio": -0.09573154301552247,
-    "sortino_ratio": -0.13633106808096374,
-    "annual_volatility": 0.3940905919924531,
-    "annual_return": -0.0758258825492345,
-    "daily_winning_ratio": 0.4126050420168067,
+    "sharpe_ratio": -0.08660227299384016,
+    "sortino_ratio": -0.1233469255252208,
+    "annual_volatility": 0.3939788671946231,
+    "annual_return": -0.07244503714760586,
+    "daily_winning_ratio": 0.41309823677581864,
     "max_drawdown": 0.6855574565155403
   }
 }
